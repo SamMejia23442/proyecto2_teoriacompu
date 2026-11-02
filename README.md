@@ -7,7 +7,7 @@ Repositorio: https://github.com/SamMejia23442/proyecto2_teoriacompu
 
 Reconocimiento de cadenas pertenecientes a una gramática libre de contexto en forma normal de Chomsky mediante dos métodos: autómata de pila (PDA) obtenido por conversión directa de la gramática y el algoritmo CYK (Cocke-Younger-Kasami) mediante programación dinámica.
 
-🎥 [Enlace a Video de Demostración del Proyecto](https://drive.google.com/file/d/105VkIAvGMRdPJqc6welI8SWpXrPRnXPA/view?usp=sharing)  
+🎥 [Enlace a Video de Demostración del Proyecto](https://youtu.be/ln45IwjVS04)  
 📄 [Documentación completa del proyecto en PDF](./documentación%20proyecto%202%20teoría%20compu.pdf)  
 ---
 
